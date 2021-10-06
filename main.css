@@ -187,13 +187,12 @@ input{
         margin-top: 3%;
     }
     .ar{
-        display: flex;
+       display: flex;
         justify-content: right;
         margin-top: 3px;
         text-decoration: none;
         font-size: 0.8rem;
-        margin-left: 90%;
-        margin-right: 0%;
+        margin-left: 70%;
     }
 
 }
