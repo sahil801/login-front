@@ -1,9 +1,9 @@
 body{
     background-color: rgba(25,44,63,255);
     font-family: 'Comfortaa', cursive;
-/*     height: 80vh; */
-    /* width: 100rem; */
-    width: 92rem;
+    height: 60vh; 
+    /* /* width: 100rem; */
+    width: 90rem;
 }
 .ac{
     display: flex;
@@ -38,8 +38,10 @@ body{
     flex-direction: column;
 }
 .login{
-    width: 55%;  
-    margin-left: 40%;
+    width: 60%;  
+    margin-right: -25%;
+    padding-right: -10%;
+    margin-left: 50%;
     border: 0.1rem solid black;
     border-radius: 10px;
 }
@@ -102,7 +104,7 @@ input{
     margin-top: 7px;
 }
 .mb-3{
-    margin-top: 10%;
+    margin-top: 7%;
     margin-bottom: 0%;
 }
 .mt1{
