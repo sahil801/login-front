@@ -92,7 +92,7 @@ input{
 }
 .group{
     padding: 0.5rem 1rem;
-    margin:2 1rem;
+/*     margin:2 1rem; */
     margin-bottom: 0.1rem;
 }
 .ftr{
@@ -154,7 +154,7 @@ input{
         padding: 1.2rem;
     }
     .btn{
-        margin-top: 15%;
+        margin-top: 10%;
     }
     .ftr{
         margin-bottom: 10%;
