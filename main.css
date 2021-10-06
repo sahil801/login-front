@@ -3,7 +3,7 @@ body{
     font-family: 'Comfortaa', cursive;
     height: 60vh; 
     /* /* width: 100rem; */
-    width: 100rem;
+    width: 100%;
 }
 .ac{
     display: flex;
@@ -149,8 +149,8 @@ input{
         align-items: center;
         margin: 2rem;
         margin-top: 15%;
-        width: 90%;
-        height: 150%;
+        width: 80%;
+        height: 130%;
         border-radius: 5%;
     }
     .para{
