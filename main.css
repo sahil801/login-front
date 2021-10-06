@@ -1,7 +1,7 @@
 body{
     background-color: rgba(25,44,63,255);
     font-family: 'Comfortaa', cursive;
-    height: 80vh;
+/*     height: 80vh; */
 }
 .ac{
     display: flex;
