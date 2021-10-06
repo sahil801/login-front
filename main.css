@@ -108,7 +108,7 @@ input{
     margin-top: 10%;
 }
 .mb-2{
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: -1rem;
 }
 @media(max-width:1300px){
@@ -174,9 +174,12 @@ input{
         margin-bottom: 10%;
     }
     .mb-2{
-        margin-top: 5;
+        margin-top: 5%;
         margin-bottom: 10%;
     }
+    /* .ar{
+        margin-top: 0%;
+    } */
     .ftr{
         margin-top: 3%;
     }
