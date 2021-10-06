@@ -11,15 +11,12 @@ body{
 .ar{
     display: flex;
     justify-content: right;
-    margin-top: -3%;
+    margin-top: 3px;
     text-decoration: none;
     font-size: 0.8rem;
 }
 .w-50{
     width: 60%;
-}
-.mb-2{
-    margin-bottom: -1rem;
 }
 .d-flex{
     display: flex;
@@ -40,8 +37,8 @@ body{
     flex-direction: column;
 }
 .login{
-    width: 60%;  
-    margin-left: 25%;
+    width: 55%;  
+    margin-left: 40%;
     border: 0.1rem solid black;
     border-radius: 10px;
 }
@@ -88,7 +85,7 @@ input{
     margin-bottom: 0.5rem;
 }
 .label{
-    margin-top: -10%;
+    margin-top: 20%;
 }
 .group{
     padding: 0.5rem 1rem;
@@ -100,7 +97,19 @@ input{
     right: 27%;
     bottom: 8%;
     font-size: 0.8rem;
-    margin-bottom: 7%;
+    margin-bottom: 5%;
+    margin-top: 7px;
+}
+.mb-3{
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+.mt1{
+    margin-top: 10%;
+}
+.mb-2{
+    margin-top: 10%;
+    margin-bottom: -1rem;
 }
 @media(max-width:1300px){
     .log-btn{
@@ -132,6 +141,7 @@ input{
         /* margin-left: 0%; */
         padding-top: 20px;
         width: 100%;
+        font-size: 1.6rem;
         background-color: whitesmoke;
         align-items: center;
         margin: 2rem;
@@ -141,7 +151,7 @@ input{
         border-radius: 5%;
     }
     .para{
-        font-size: 1.1rem;
+        font-size: 1.8rem;
         margin: 2rem;
         margin-left: 3rem;
         margin-bottom: 50%;
@@ -155,6 +165,10 @@ input{
     }
     .btn{
         margin-top: 15%;
+        font-size: 1.6rem;
+    }
+    .btn-main{
+        font-size: 1.6rem;
     }
     .ftr{
         margin-bottom: 10%;
@@ -163,10 +177,16 @@ input{
         margin-top: 5;
         margin-bottom: 10%;
     }
-    .ar{
-        margin-top: 0%;
-    }
     .ftr{
         margin-top: 3%;
     }
+    .ar{
+        display: flex;
+        justify-content: right;
+        margin-top: 3px;
+        text-decoration: none;
+        font-size: 0.8rem;
+        margin-left: 70%;
+    }
+
 }
