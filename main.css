@@ -1,7 +1,7 @@
 body{
     background-color: rgba(25,44,63,255);
     font-family: 'Comfortaa', cursive;
-    height: 80vh;
+    /* height: 80vh; */
     /* width: 100rem; */
 }
 .ac{
@@ -92,7 +92,7 @@ input{
 }
 .group{
     padding: 0.5rem 1rem;
-/*     margin:2 1rem; */
+    margin:-10px 1rem;
     margin-bottom: 0.1rem;
 }
 .ftr{
@@ -120,7 +120,6 @@ input{
     .group{
         width: 80%;
         margin-left: 7.5%;
-        margin-top: -100%;
         display: inline flex;
         justify-content: center;
     }
@@ -131,7 +130,7 @@ input{
     }
     .login{
         /* margin-left: 0%; */
-        padding-top: 20%;
+        padding-top: 20px;
         width: 100%;
         background-color: whitesmoke;
         align-items: center;
@@ -155,14 +154,14 @@ input{
         padding: 1.2rem;
     }
     .btn{
-        margin-top: -100%;
+        margin-top: 15%;
     }
     .ftr{
         margin-bottom: 10%;
     }
     .mb-2{
         margin-top: 5;
-        margin-bottom: 17%;
+        margin-bottom: 10%;
     }
     .ar{
         margin-top: 0%;
