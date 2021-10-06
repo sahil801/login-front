@@ -2,9 +2,10 @@ body{
     background-color: rgba(25,44,63,255);
     font-family: 'Comfortaa', cursive;
     /* /* width: 100rem; */
-    height: 100vh;
+/*     height: 100vh;
     padding: 0;
-    min-width: 100%;
+    min-width: 100%; */
+    padding:0;
 }
 .ac{
     display: flex;
