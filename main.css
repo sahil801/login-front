@@ -118,8 +118,8 @@ input{
         flex-direction: column;
     }
     .group{
-        width: 200%;
-        margin-left: -55%;
+        width: 30rem%;
+        margin-left: 0%;
         display: inline flex;
         justify-content: center;
     }
